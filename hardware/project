@@ -1,0 +1,4 @@
+schematics	usb_10c_pg1.sch
+output-name	usb_10c
+elements-dir	../../pcb-elements/
+skip-m4
